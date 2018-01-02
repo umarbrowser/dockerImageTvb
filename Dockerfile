@@ -127,7 +127,8 @@ RUN set -ex; \
 CMD ["python2"]
 
 
-### Using python pypi ###
+### Install The virtual brain(TVB) ###
+
 # Install using pip
 RUN pip install tvb-framework
 
