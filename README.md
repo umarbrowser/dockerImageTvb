@@ -1,2 +1,3 @@
-# dockerImageTvb
-Simple Dockerfile for The Virtual Brain prove, under INCF for GSoC2018
+# dockerImageTvb.
+
+Simple Dockerfile for The Virtual Brain(TVB) proposal, under INCF for GSoC2018
