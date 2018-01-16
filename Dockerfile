@@ -133,7 +133,8 @@ CMD ["python2"]
 RUN pip install tvb-framework
 
 # Start the framwork
-RUN python -m tvb.interfaces.web.run WEB_PROFILE tvb.config
+# RUN python -m tvb.interfaces.web.run WEB_PROFILE tvb.config
+CMD ["python", "-m", "tvb.interfaces.web.run WEB_PROFILE tvb.config"]
 # Your port 8080 should be free, as a CherryPy service will try to run there.
 # Your default browser should automatically open http://localhost:8080/
 # which is the way to interact with TVB Web Interface.
