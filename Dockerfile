@@ -9,9 +9,6 @@ FROM continuumio/miniconda
 # file Author
 MAINTAINER pyc0d3r
 
-# Update the repository
-RUN apt-get update
-
 ################## BEGIN INSTALLATION ######################
 ### Install The virtual brain(TVB) ###
 
