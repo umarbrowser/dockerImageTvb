@@ -1,4 +1,4 @@
-# Tvb on Docker
+# TBV on Docker
 > Simple Dockerfile for The Virtual Brain(TVB) proposal, under INCF for GSoC2018
 
 [![NPM Version][npm-image]][npm-url]
