@@ -7,7 +7,7 @@
 
 Simple Dockerfile to build TVB container image Based on Miniconda python2.
 
-![](TVB_logo.svg)
+![](TVB_logo.jpg)
 
 ## Installation
 
